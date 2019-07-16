@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1536946952 source:d:\opengl\basicgraphics\example01.cpp
+	<graphics.h>
+
+1266061814 d:\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1536947553 source:d:\opengl\basicgraphics\example02.c
+	<iostream>
+	<graphics.h>
+	<math.h>
+
